@@ -1,0 +1,24 @@
+0 hello
+1 please
+2 help
+3 me
+4 thank you
+5 sorry
+6 I Love You
+7 yes
+8 no
+9 eat
+10 A
+11 B
+12 C
+13 D
+14 E
+15 F
+16 G
+17 H
+18 I
+19 J
+20 K
+21 L
+22 call
+23 speak
